@@ -1,0 +1,22 @@
+{
+  "name": "seanbot",
+  "description": "My discord selfbot",
+  "version": "0.1.0",
+  "homepage": "https://github.com/seanc/seanbot",
+  "author": "Sean Wilson (https://imsean.me)",
+  "repository": "seanc/seanbot",
+  "bugs": {
+    "url": "https://github.com/seanc/seanbot/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "minimist": "^1.2.0"
+  }
+}
